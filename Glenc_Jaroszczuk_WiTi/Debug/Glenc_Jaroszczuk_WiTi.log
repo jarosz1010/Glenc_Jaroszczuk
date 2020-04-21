@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Glenc_Jaroszczuk_WiTi.cpp
+c:\users\michał\source\repos\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi.cpp(71): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi.cpp(90): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi.cpp(141): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\michał\source\repos\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi\glenc_jaroszczuk_witi.cpp(145): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Glenc_Jaroszczuk_WiTi.vcxproj -> C:\Users\Michał\source\repos\Glenc_Jaroszczuk_WiTi\Debug\Glenc_Jaroszczuk_WiTi.exe
